@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "2a9448dd6655d3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b550d3a4947d84f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b7e987968e00a9a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "IT/Projekte/Tutorium Programmiertechnik/TutUez4.canvas",
+                "viewState": {
+                  "x": -2014.6034848210645,
+                  "y": 2400.5521442898034,
+                  "zoom": 0.19999999999999996
+                }
+              }
+            }
+          },
+          {
+            "id": "034e43502f34304b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "IT/Projekte/Tutorium Programmiertechnik/TutUez4.canvas",
+                "viewState": {
+                  "x": -1772.509682846383,
+                  "y": 2091.4305907655225,
+                  "zoom": -1.0800564689537997
+                }
+              }
+            }
+          },
+          {
+            "id": "bb5f1cee4b3cd1d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Projekte/Tutorium Programmiertechnik/Addieren von Gleitkommazahlen bei ungleichen Exponenten.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ca5ad2cc959f29a",
+    "type": "split",
+    "children": [
+      {
+        "id": "05f61f9ac48539b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f930f5ac9edec5a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "klassif",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0e94e9d4cc09748",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "542018647d6b9db5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/zzDrawing_Netzwerkschnittstellen_und_Ports.md"
+              }
+            }
+          },
+          {
+            "id": "24fc617ec9b89887",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "22b70099ee710ea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1e12d0984679f10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "942ae100bc3331d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IT/Projekte/Tutorium Programmiertechnik/Addieren von Gleitkommazahlen bei ungleichen Exponenten.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88e61ebe59544569",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0276d16b89ce32ef",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "0133fb962f708cab",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "60d3da8b7c01d6bd",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "75b4e4d80c38de20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "bb5f1cee4b3cd1d5",
+  "lastOpenFiles": [
+    "IT/Projekte/Tutorium Programmiertechnik/BinKomma - Gleitend.md",
+    "IT/Projekte/Tutorium Programmiertechnik/Addieren von Gleitkommazahlen bei ungleichen Exponenten.md",
+    "IT/Projekte/Tutorium Programmiertechnik/HexTable.md",
+    "IT/Projekte/Tutorium Programmiertechnik/OctAdd.md",
+    "IT/Projekte/Tutorium Programmiertechnik/OctConvert.md",
+    "IT/Projekte/Tutorium Programmiertechnik/OctDetails.md",
+    "IT/Projekte/Tutorium Programmiertechnik/BinAdd.md",
+    "IT/Projekte/Tutorium Programmiertechnik/BinConvert.md",
+    "IT/Projekte/Tutorium Programmiertechnik/HexDetails.md",
+    "IT/Projekte/Tutorium Programmiertechnik/HexConvert.md",
+    "IT/Projekte/Tutorium Programmiertechnik/HexAdd.md",
+    "IT/Projekte/Tutorium Programmiertechnik/BinSubtract.md",
+    "IT/Projekte/Tutorium Programmiertechnik/BinKomma - Fix.md",
+    "IT/Projekte/Tutorium Programmiertechnik/TutUez4.canvas",
+    "IT/Machine Learning/Learning/Support Vector Machines.md",
+    "IT/Projekte/Tutorium Programmiertechnik/Drawing 2023-10-28 20.46.19.excalidraw.md",
+    "IT/Projekte/Smart-Tech Monitoring/Apache Jena.md",
+    "Untitled 3.md",
+    "IT/Projekte/Tutorium Programmiertechnik/binary calc.png",
+    "IT/Projekte/Tutorium Programmiertechnik",
+    "IT/Projekte/Smart-Tech Monitoring/OWL.md",
+    "IT/Projekte/Smart-Tech Monitoring/RDF.md",
+    "semantischen Webs.md",
+    "IT/Projekte/Smart-Tech Monitoring/Semantisches Web.md",
+    "IT/Projekte/Smart-Tech Monitoring/Neo4J.md",
+    "IT/Projekte/Smart-Tech Monitoring/Untitled.md",
+    "Untitled 2.md",
+    "IT/Projekte/Smart-Tech Monitoring",
+    "IT/Projekte",
+    "Untitled 1.md",
+    "IT/Machine Learning/zzDrawings/zzDrawing_Classification.png",
+    "IT/Machine Learning/zzDrawings/zzDrawing_MachProgramm.png",
+    "IT/Machine Learning/zzDrawings/zzDrawing_Regression.png",
+    "IT/Machine Learning/zzDrawings/zzDrawing_TradProgramm.png",
+    "IT/Machine Learning/zzDrawings/zzDrawing_SVM.png",
+    "Excalidraw/zzDrawing_MachProgramm.png",
+    "IT/Machine Learning/Klausurvorbereitung",
+    "IT/Machine Learning/Artificial Neural Networks",
+    "IT/Machine Learning/Regression",
+    "IT/Machine Learning/Learning",
+    "Musik/Lyrics/Way Over Yonder (in the minor key)/Way over Yonder (in the minor key).canvas",
+    "Musik/Lyrics/Way Over Yonder (in the minor key)/Media/BaumDerErkenntnis.jpg",
+    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing",
+    "Musik/Lyrics/Way Over Yonder (in the minor key)/Media",
+    "Musik/Lyrics/Way Over Yonder (in the minor key)",
+    "Excalidraw/Untitled.canvas",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-04-21 19.24.32.excalidraw.svg"
+  ]
+}

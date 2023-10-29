@@ -1,0 +1,6 @@
+Das **_Document Object Model_** (DOM) ist eine **Programmierschnittstelle** für HTML- und XML-Dokumente. 
+Es stellt ein strukturiertes Dokument als **baumartige Struktur** mit Elementen als Knoten dar und bietet eine Möglichkeit, auf den **Inhalt**, die Struktur **und** den **Stil** des Dokuments zuzugreifen und sie zu bearbeiten.
+
+Im Kontext der Webentwicklung wird das DOM von JavaScript verwendet, um mit dem HTML und CSS einer Webseite zu interagieren und deren Inhalt **dynamisch** zu aktualisieren. Der Browser erstellt eine DOM-Darstellung des HTML-Dokuments und aktualisiert sie, sobald sich der Inhalt der Seite ändert, so dass Entwickler mit JavaScript auf die Elemente der Seite zugreifen und sie manipulieren können.
+
+[[_React|React]] verwendet ein virtuelles DOM, um die **Leistung zu verbessern** und die **Aktualisierung** der Benutzeroberfläche zu erleichtern. Das virtuelle DOM fungiert als **Vermittler** zwischen den React-Komponenten und dem tatsächlichen DOM und ermöglicht es React, die Benutzeroberfläche auf effizientere und optimierte Weise zu aktualisieren.

@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"21cb7beb5d47a8be","type":"text","text":"Praxisguide: Zahlensysteme","x":-350,"y":-360,"width":386,"height":100,"color":"1"},
+		{"id":"412f818d41619655","type":"text","text":"Oktalsystem","x":-269,"y":280,"width":224,"height":60,"color":"5"},
+		{"id":"f17a9a26aab2f75a","type":"text","text":"Binärsystem","x":-2560,"y":-160,"width":223,"height":60,"color":"6"},
+		{"id":"5b6b4992f4eba498","type":"file","file":"IT/Projekte/Tutorium Programmiertechnik/OctConvert.md","x":-1320,"y":800,"width":400,"height":200},
+		{"id":"a4261a5966cf5abd","type":"file","file":"IT/Projekte/Tutorium Programmiertechnik/OctDetails.md","x":-477,"y":876,"width":416,"height":406},
+		{"id":"aebfea765add23b8","type":"file","file":"IT/Projekte/Tutorium Programmiertechnik/OctAdd.md","x":-814,"y":1640,"width":337,"height":482},
+		{"id":"d883d65493c39ed3","type":"file","file":"IT/Projekte/Tutorium Programmiertechnik/HexDetails.md","x":1882,"y":721,"width":578,"height":400},
+		{"id":"0d508d21c1a230b1","type":"file","file":"IT/Projekte/Tutorium Programmiertechnik/HexTable.md","x":2171,"y":1799,"width":400,"height":841},
+		{"id":"239ce8cd406e83cc","type":"text","text":"Hexadecimal","x":1262,"y":315,"width":218,"height":65,"color":"6"},
+		{"id":"cf472d3639a5e511","type":"file","file":"IT/Projekte/Tutorium Programmiertechnik/HexAdd.md","x":1560,"y":1799,"width":380,"height":600},
+		{"id":"62157c41919ee954","type":"file","file":"IT/Projekte/Tutorium Programmiertechnik/HexConvert.md","x":1000,"y":821,"width":382,"height":159},
+		{"id":"858b4cbb8166202e","type":"file","file":"IT/Projekte/Tutorium Programmiertechnik/BinKomma - Fix.md","x":-2160,"y":480,"width":594,"height":1600},
+		{"id":"d6a3ea6fcabc4e95","type":"text","text":"[[BinKomma - Gleitend]]","x":-2330,"y":2400,"width":341,"height":70},
+		{"id":"f46959d0f687ada1","type":"file","file":"IT/Projekte/Tutorium Programmiertechnik/BinSubtract.md","x":-3400,"y":1409,"width":606,"height":1111},
+		{"id":"a9fcea12fde6d825","type":"file","file":"IT/Projekte/Tutorium Programmiertechnik/BinAdd.md","x":-3194,"y":280,"width":400,"height":400},
+		{"id":"9e4c9bb65b10fbe9","type":"file","file":"IT/Projekte/Tutorium Programmiertechnik/BinConvert.md","x":-3860,"y":280,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"8af609a1fc2c710e","fromNode":"21cb7beb5d47a8be","fromSide":"left","toNode":"f17a9a26aab2f75a","toSide":"right","label":"bin"},
+		{"id":"d8e32f65a2fc565f","fromNode":"f17a9a26aab2f75a","fromSide":"bottom","toNode":"9e4c9bb65b10fbe9","toSide":"top","label":"convert"},
+		{"id":"b8922a2537663734","fromNode":"21cb7beb5d47a8be","fromSide":"bottom","toNode":"412f818d41619655","toSide":"top","label":"oct"},
+		{"id":"71a56ebf2dc4c612","fromNode":"412f818d41619655","fromSide":"bottom","toNode":"5b6b4992f4eba498","toSide":"top","label":"convert"},
+		{"id":"f9715d04ac3b404e","fromNode":"21cb7beb5d47a8be","fromSide":"right","toNode":"239ce8cd406e83cc","toSide":"left","label":"hex"},
+		{"id":"45362853f4473219","fromNode":"d883d65493c39ed3","fromSide":"left","toNode":"62157c41919ee954","toSide":"right","label":"convert"},
+		{"id":"d3934c440bb36f32","fromNode":"f17a9a26aab2f75a","fromSide":"bottom","toNode":"a9fcea12fde6d825","toSide":"top","label":"add"},
+		{"id":"f881fdd2c1c66979","fromNode":"412f818d41619655","fromSide":"bottom","toNode":"a4261a5966cf5abd","toSide":"top"},
+		{"id":"cbd6de0f0b252d0f","fromNode":"a4261a5966cf5abd","fromSide":"bottom","toNode":"aebfea765add23b8","toSide":"top"},
+		{"id":"c567cc3d7db7698d","fromNode":"239ce8cd406e83cc","fromSide":"bottom","toNode":"d883d65493c39ed3","toSide":"top"},
+		{"id":"d290f35ff78a146e","fromNode":"d883d65493c39ed3","fromSide":"bottom","toNode":"cf472d3639a5e511","toSide":"top","label":"add"},
+		{"id":"039acf3e381373e0","fromNode":"d883d65493c39ed3","fromSide":"bottom","toNode":"0d508d21c1a230b1","toSide":"top","label":"table"},
+		{"id":"a4202820359a08ad","fromNode":"f17a9a26aab2f75a","fromSide":"bottom","toNode":"858b4cbb8166202e","toSide":"top","label":"comma"},
+		{"id":"4c2da9c20f821027","fromNode":"858b4cbb8166202e","fromSide":"bottom","toNode":"d6a3ea6fcabc4e95","toSide":"top"},
+		{"id":"bf7bf7f882a12645","fromNode":"f17a9a26aab2f75a","fromSide":"bottom","toNode":"f46959d0f687ada1","toSide":"top"}
+	]
+}
